@@ -38,4 +38,5 @@ return require('packer').startup(function(use)
 		  {'rafamadriz/friendly-snippets'},
 	  }
   }
+  use ('andweeb/presence.nvim')
 end)
