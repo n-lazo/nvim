@@ -9,8 +9,8 @@ Configuración de personal de Neovim basada en el tutorial de ThePrimeagen
 git clone --depth 1 https://github.com/wbthomason/packer.nvim\
  ~/.local/share/nvim/site/pack/packer/start/packer.nvim
 ```
-```bash
 ### GNU Compiler:
+```bash
 sudo apt install gcc
 ```
 ### NodeJS
